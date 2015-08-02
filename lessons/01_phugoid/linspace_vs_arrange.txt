@@ -1,0 +1,1 @@
+linspace(start,end, num) = arange(start, end+1, end/(num -1))
